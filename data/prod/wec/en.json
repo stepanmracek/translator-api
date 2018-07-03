@@ -1,0 +1,116 @@
+{
+    "common": {
+        "error": "Error",
+        "cancel": "Cancel",
+        "save-and-finish": "Save & finish",
+        "question": "Question",
+        "yes": "Yes",
+        "no": "No",
+        "ok": "OK",
+        "warning": "Warning"
+    },
+    "user-data": {
+        "title": "Personal data",
+        "user-id": "User ID",
+        "enter-user-id": "Please enter User ID",
+        "invalid-user-id": "Invalid User ID",
+        "flex-id": "Flex ID",
+        "first-name": "First name",
+        "last-name": "Last name",
+        "comments": "Comments",
+        "already-exists": "User with ID \"%s\" already exists."
+    },
+    "user-access": {
+        "title": "Access rules",
+        "role": {
+            "role": "Role",
+            "user": "User",
+            "admin": "Admin",
+            "enroll": "Enroll"
+        },
+        "access-level": {
+            "access-level": "Access level",
+            "no-access": "No access",
+            "unlimited": "Unlimited"
+        },
+        "valid-from": "Valid from",
+        "valid-until": "Valid until",
+        "invalid-pin": "Invalid PIN",
+        "pin": "PIN",
+        "clear-pin": "PIN will be cleared",
+        "filled-pin": "PIN is filled",
+        "save-error": "Error when registering new user or editing existing one"
+    },
+    "select-finger": {
+        "title": "Select finger",
+        "csm": "Critical sample mode",
+        "no-finger-selected": "No finger selected"
+    },
+    "select-sensor": {
+        "title": "Select sensor",
+        "sensor": "Sensor",
+        "select-sensor": "Please select sensor from a list",
+        "sensor-error": "Sensor error"
+    },
+    "capture": {
+        "title": "Capture",
+        "verify-title": "Verification",
+        "quality": {
+            "bad": "Bad",
+            "mismatch": "Mismatch criteria",
+            "low": "Low",
+            "poor": "Poor",
+            "good": "Good",
+            "unknown": "Unknown"
+        },
+        "capture-process-status": {
+            "status": "Capture process status",
+            "initializing": "Initializing",
+            "not-running": "Sensor is not running",
+            "waiting": "Waiting for input",
+            "positioning": "Positioning",
+            "processing": "Processing",
+            "finished": "Finished",
+            "failed": "Capture failed"
+        },
+        "pos-instruction": {
+            "move-forward": "Move forward",
+            "move-backward": "Move backward",
+            "move-right": "Move right",
+            "move-left": "Move left",
+            "move-up": "Move up",
+            "move-down": "Move down"
+        },
+        "error": "Error during capturing"
+    },
+    "capture-result": {
+        "title": "Capture result",
+        "ready-to-proceed": "Ready to proceed",
+        "insufficient-quality": "Insufficient quality",
+        "already-in-db": "User already in DB",
+        "repeat-capture": "Repeat capture"
+    },
+    "verification-result": {
+        "title": "Verification result",
+        "match": "Match",
+        "Excellent": "Excellent",
+        "VeryGood": "Very good",
+        "Good": "Good",
+        "Poor": "Poor",
+        "Critical": "Critical",
+        "NoMatch": "No match",
+        "repeat-verify": "Repeat verify",
+        "repeat-process": "Repeat process",
+        "enrollment-error": "Enrollment error",
+        "no-match-redo": "Captured samples do not match. Redo enrollment?",
+        "poor-match-redo": "TBS recommends to redo enrollment in case of poor matching result. Do you want to do this now?",
+        "insufficient-quality-redo": "Insufficient quality. Redo enrollment?",
+        "medium-quality-redo": "TBS strongly recommends to redo enrollment in case of medium\/low quality samples. Do you want to do this now?"
+    },
+    "crop": {
+        "crop-image": "Crop image",
+        "webcam-capturing": "WebCam capturing",
+        "crop": "Crop",
+        "capture": "Capture"
+    }
+}

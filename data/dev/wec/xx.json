@@ -1,0 +1,116 @@
+{
+  "common": {
+    "error": "common.error",
+    "cancel": "common.cancel",
+    "save-and-finish": "common.save-and-finish",
+    "question": "common.question",
+    "yes": "common.yes",
+    "no": "common.no",
+    "ok": "common.ok",
+    "warning": "common.warning"
+  },
+  "user-data": {
+    "title": "user-data.title",
+    "user-id": "user-data.user-id",
+    "enter-user-id": "user-data.enter-user-id",
+    "invalid-user-id": "user-data.invalid-user-id",
+    "flex-id": "user-data.flex-id",
+    "first-name": "user-data.first-name",
+    "last-name": "user-data.last-name",
+    "comments": "user-data.comments",
+    "already-exists": "user-data.already-exists"
+  },
+  "user-access": {
+    "title": "user-access.title",
+    "role": {
+      "role": "user-access.role.role",
+      "user": "user-access.role.user",
+      "admin": "user-access.role.admin",
+      "enroll": "user-access.role.enroll"
+    },
+    "access-level": {
+      "access-level": "user-access.access-level.access-level",
+      "no-access": "user-access.access-level.no-access",
+      "unlimited": "user-access.access-level.unlimited"
+    },
+    "valid-from": "user-access.valid-from",
+    "valid-until": "user-access.valid-until",
+    "invalid-pin": "user-access.invalid-pin",
+    "pin": "user-access.pin",
+    "clear-pin": "user-access.clear-pin",
+    "filled-pin": "user-access.filled-pin",
+    "save-error": "user-access.save-error"
+  },
+  "select-finger": {
+    "title": "select-finger.title",
+    "csm": "select-finger.csm",
+    "no-finger-selected": "select-finger.no-finger-selected"
+  },
+  "select-sensor": {
+    "title": "select-sensor.title",
+    "sensor": "select-sensor.sensor",
+    "select-sensor": "select-sensor.select-sensor",
+    "sensor-error": "select-sensor.sensor-error"
+  },
+  "capture": {
+    "title": "capture.title",
+    "verify-title": "select-sensor.verify-title",
+    "quality": {
+      "bad": "capture.quality.Bad",
+      "mismatch": "capture.quality.mismatch",
+      "low": "capture.quality.low",
+      "poor": "capture.quality.poor",
+      "good": "capture.quality.good",
+      "unknown": "capture.quality.unknown"
+    },
+    "capture-process-status": {
+      "status": "capture.capture-process-status.status",
+      "initializing": "capture.capture-process-status.initializing",
+      "not-running": "capture.capture-process-status.not-running",
+      "waiting": "capture.capture-process-status.waiting",
+      "positioning": "capture.capture-process-status.positioning",
+      "processing": "capture.capture-process-status.processing",
+      "finished": "capture.capture-process-status.finished",
+      "failed": "capture.capture-process-status.failed"
+    },
+    "pos-instruction": {
+      "move-forward": "capture.pos-instruction.move-forward",
+      "move-backward": "capture.pos-instruction.move-backward",
+      "move-right": "capture.pos-instruction.move-right",
+      "move-left": "capture.pos-instruction.move-left",
+      "move-up": "capture.pos-instruction.move-up",
+      "move-down": "capture.pos-instruction.move-down"
+    },
+    "error": "capture.error"
+  },
+  "capture-result": {
+    "title": "capture-result.title",
+    "ready-to-proceed": "capture-result.ready-to-proceed",
+    "insufficient-quality": "capture-result.insufficient-quality",
+    "already-in-db": "capture-result.already-in-db",
+    "repeat-capture": "capture-result.repeat-capture"
+  },
+  "verification-result": {
+    "title": "verification-result.title",
+    "match": "verification-result.match",
+    "Excellent": "verification-result.Excellent",
+    "VeryGood": "verification-result.VeryGood",
+    "Good": "verification-result.Good",
+    "Poor": "verification-result.Poor",
+    "Critical": "verification-result.Critical",
+    "NoMatch": "verification-result.Nomatch",
+    "repeat-verify": "verification-result.repeat-verify",
+    "repeat-process": "verification-result.repeat-process",
+    "enrollment-error": "verification-result.enrollment-error",
+    "no-match-redo": "verification-result.no-match-redo",
+    "poor-match-redo": "verification-result.poor-match-redo",
+    "insufficient-quality-redo": "verification-result.insufficient-quality-redo",
+    "medium-quality-redo": "verification-result.medium-quality-red"
+  },
+  "crop": {
+    "crop-image": "crop.crop-image",
+    "webcam-capturing": "crop.webcam-capturing",
+    "crop": "crop.crop",
+    "capture": "crop.capture"
+  }
+}

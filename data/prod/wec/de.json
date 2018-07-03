@@ -1,0 +1,116 @@
+{
+    "common": {
+        "error": "Fehler",
+        "cancel": "Abbrechen",
+        "save-and-finish": "Speichern und beenden",
+        "question": "Frage",
+        "yes": "Ja",
+        "no": "Nein",
+        "ok": "OK",
+        "warning": "Warnung"
+    },
+    "user-data": {
+        "title": "Persönliche Daten",
+        "user-id": "Benutzer-ID",
+        "enter-user-id": "Bitte Benutzer-ID eingeben",
+        "invalid-user-id": "Ungültige Benutzer-ID",
+        "flex-id": "Flex-ID",
+        "first-name": "Vorname",
+        "last-name": "Nachname",
+        "comments": "Bemerkungen",
+        "already-exists": "Benutzer mit ID \"%s\" existiert bereits."
+    },
+    "user-access": {
+        "title": "Zutrittsregeln",
+        "role": {
+            "role": "Rolle",
+            "user": "Benutzer",
+            "admin": "Admin",
+            "enroll": "Enroll"
+        },
+        "access-level": {
+            "access-level": "Zutrittslevel",
+            "no-access": "Kein Zutritt",
+            "unlimited": "Unbeschränkt"
+        },
+        "valid-from": "Gültig von",
+        "valid-until": "Gültig bis",
+        "invalid-pin": "PIN-Code ungültig",
+        "pin": "PIN.Code",
+        "clear-pin": "PIN-Code wird gelöscht",
+        "filled-pin": "PIN-Code ist gesetzt",
+        "save-error": "Fehler beim Registrieren eines neuen Benutzers oder Bearbeiten eines bestehenden Benutzers"
+    },
+    "select-finger": {
+        "title": "Finger auswählen",
+        "csm": "Modus für schwierige Finger",
+        "no-finger-selected": "Kein Finger gewählt"
+    },
+    "select-sensor": {
+        "title": "Sensor auswählen",
+        "sensor": "Sensor",
+        "select-sensor": "Bitte Sensor aus Liste auswählen",
+        "sensor-error": "Sensorfehler"
+    },
+    "capture": {
+        "title": "Erfassen",
+        "verify-title": "Verifizierung",
+        "quality": {
+            "bad": "Schlecht",
+            "mismatch": "Fehlerkriterien",
+            "low": "Niedrig",
+            "poor": "Schlecht",
+            "good": "Gut",
+            "unknown": "Unbekannt"
+        },
+        "capture-process-status": {
+            "status": "Erfassungsstatus",
+            "initializing": "Initialisierung",
+            "not-running": "Sensor ist gestoppt",
+            "waiting": "Warte auf Eingabe",
+            "positioning": "Positionieren",
+            "processing": "Verarbeitung läuft",
+            "finished": "Beendet",
+            "failed": "Erfassung fehlgeschlagen"
+        },
+        "pos-instruction": {
+            "move-forward": "Nach vorn",
+            "move-backward": "Nach hinten",
+            "move-right": "Nach rechts",
+            "move-left": "Nach links",
+            "move-up": "Nach oben",
+            "move-down": "Nach unten"
+        },
+        "error": "Fehler bei der Aufnahme"
+    },
+    "capture-result": {
+        "title": "Erfassungsstatus",
+        "ready-to-proceed": "Bereit zum Fortfahren",
+        "insufficient-quality": "Qualität ungenügend",
+        "already-in-db": "Benutzer bereits in Datenbank",
+        "repeat-capture": "Erfassung wiederholen"
+    },
+    "verification-result": {
+        "title": "Verifikationsergebnis",
+        "match": "Übereinstimmung",
+        "Excellent": "Exzellent",
+        "VeryGood": "Sehr gut",
+        "Good": "Gut",
+        "Poor": "Schlecht",
+        "Critical": "Kritisch",
+        "NoMatch": "Keine Übereinstimmung",
+        "repeat-verify": "Verifikation wiederholen",
+        "repeat-process": "Vorgang wiederholen",
+        "enrollment-error": "Fehler bei Enrollment",
+        "no-match-redo": "Aufnahmen stimmen nicht überein. Enrollment wiederholen?",
+        "poor-match-redo": "TBS empfiehlt ein erneutes Enrollment bei schlechter Übereinstimmung der Aufnahmen. Jetzt starten?",
+        "insufficient-quality-redo": "Qualität ungenügend. Enrollment neu starten?",
+        "medium-quality-redo": "TBS empfiehlt ein erneutes Enrollment bei schlechter Aufnahmequalität. Jetzt starten?"
+    },
+    "crop": {
+        "crop-image": "Bild beschneiden",
+        "webcam-capturing": "Aufnahme per WebCam",
+        "crop": "Beschneiden",
+        "capture": "Erfassen"
+    }
+}
